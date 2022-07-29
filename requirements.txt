@@ -15,3 +15,4 @@ anonfile
 playsound==1.2.2
 PyQt5
 pyfiglet
+eel
